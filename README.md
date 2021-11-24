@@ -1,2 +1,2 @@
-# documentation
-Documentation for the Unreal Implementation of VisAI
+# Documentation
+Documentation for the VisAI framework & its packs
