@@ -2,7 +2,7 @@
 
 This is the documentation for VisAI version 1.x!
 
-Originally hosted on our website, we've moved to GitHub to allow for easier community contribution. 
+Originally hosted on our website, we've moved to GitHub to allow for easier community contribution.  [Check out the Wiki to get started](https://github.com/Official-VisAI/v1-documentation/wiki)!
 
 In order to support as many languages as we can, we've split this repository into multiple folders. If you don't see a language you know, [consider contributing](https://github.com/Official-VisAI/v1-documentation/wiki/Portal:Contribution-Guide)!
 
